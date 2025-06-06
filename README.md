@@ -1,10 +1,18 @@
-# Exercícios de JavaScript
+# Lista de Exercícios 2 - +PraTi
 
-## Como executar
+Este repositório contém a segunda lista de exercícios do curso, abordando conceitos de JavaScript.
 
-1. Instale o Node.js (https://nodejs.org/)
-2. Baixe ou clone este repositório
-3. No terminal, execute os arquivos com:
+## Como Executar
 
-```bash
-node nome-do-arquivo.js
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/IsaqueHeck/Lista-de-Exercicios-2-Dev-Full-stack.git
+
+2. Navegue até o diretório do projeto:
+
+cd Lista-de-Exercicios-2-Dev-Full-stack
+
+3. Execute os exercícios com Node.js:
+
+node Exercicio1.js
+node Exercicio2.js
