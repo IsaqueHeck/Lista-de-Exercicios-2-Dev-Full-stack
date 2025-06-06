@@ -16,3 +16,7 @@ cd Lista-de-Exercicios-2-Dev-Full-stack
 
 node Exercicio1.js
 node Exercicio2.js
+
+Tecnologias Utilizadas:
+JavaScript
+Node.js
